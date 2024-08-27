@@ -1,3 +1,11 @@
+# About the fork
+The author of the original repository and docker image in dockerhub deleted everything and thanks generativelabs for doing the fork and keeping the code.
+
+I rebuilt it and uploaded it to dockerhub, so you can use it instead of the original image
+`daswer123/runpod-worker-a1111:1.2`
+
+It works exactly the same way
+
 <div align="center">
 
 # A1111 Stable Diffusion | RunPod Serverless Worker
